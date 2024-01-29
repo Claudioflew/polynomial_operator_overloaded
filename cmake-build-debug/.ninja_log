@@ -1,0 +1,4 @@
+# ninja log v5
+0	388	1706490968307371890	CMakeFiles/Assignment8_PolynomialOverloadedOperators.dir/main.cpp.o	816101bcc8bffba0
+0	418	1706490968339280605	CMakeFiles/Assignment8_PolynomialOverloadedOperators.dir/Polynomial.cpp.o	972a11a350405f54
+418	448	1706490968370151857	Assignment8_PolynomialOverloadedOperators	4c5ba352a53b0cb5
